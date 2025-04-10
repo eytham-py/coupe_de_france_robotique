@@ -1,0 +1,20 @@
+esp 32
+
+servo moteur sg 90
+attache ?
+designe faire 3-4 solide carton impr coll
+
+1 super star micro
+3 fan main
+
+
+--------------
+
+deplacement a->b (obstacles) x-y
+
+
+------------
+
+banderole main-bot 
+
+-------------------
